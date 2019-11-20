@@ -8,3 +8,13 @@ Debug
 Release
 
 *.swp
+
+.cr/
+.vs/
+bin/
+bin-int/
+
+**.sln
+**.user
+**.vcxproj
+**.filters
